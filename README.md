@@ -10,8 +10,8 @@
 
 ## 🔗 Explore My Repositories
 
-- [MajorTank](https://github.com/MajorTank): Full-Stack Software Development Projects
-- [NetworkTank](https://github.com/networkTank): Networking Projects and Infrastructure Solutions
+- **[MajorTank](https://github.com/MajorTank)**: Full-Stack Software Development Projects
+- **[NetworkTank](https://github.com/networkTank):** Networking Projects and Infrastructure Solutions
 
 ---
 
@@ -72,8 +72,8 @@ cyber_tools = {
 
 ## 🔗 Related Repositories
 
-- [MajorTank](https://github.com/MajorTank): Full-stack development with secure APIs.
-- [NetworkTank](https://github.com/networkTank): Networking and infrastructure automation.
+- **[MajorTank](https://github.com/MajorTank)**: Full-stack development with secure APIs.
+- **[NetworkTank](https://github.com/networkTank)**: Networking and infrastructure automation.
 
 ---
 
