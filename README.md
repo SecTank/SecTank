@@ -1,32 +1,82 @@
-# 👋 Hi, I'm @SecTank  
-Welcome to my profile! I'm a passionate cybersecurity enthusiast with a focus on network security, ethical hacking, and software reverse engineering.  
+### **SecTank: Cybersecurity Tools & Labs**
 
-## 🚀 Interests  
-- **Cybersecurity**: Ethical hacking, penetration testing, network defense  
-- **Tools & Technologies**: Decompilation, PXE booting, Nmap, Wireshark, OpenNMS, pfSense, Active Directory (AD), Proxmox  
+> Thabo "Tank" Tankiso Thebe
+> 
+> 
+> Cybersecurity Specialist focused on creating secure environments, simulating attacks, and raising awareness through innovative tools and labs.
+> 
 
-## 🛠️ Specializations
-- **Network Security**: pfSense, Firewall Configuration, VLANs
-- **Monitoring**: OpenNMS, Nagios, Log Analysis
-- **Infrastructure**: Linux (Ubuntu, CentOS), Server Administration
-- **Deployment**: FOG Project, PXE Boot, System Imaging
+---
 
-## 🌱 Currently Learning  
-- **Casting Tools & Deployment**: FOG Project, SCCM  
-- **Network Protocols**: Advanced exploration of network communications and security  
-- **Security Infrastructure**: Active Directory, pfSense, and more  
+## 🔗 Explore My Repositories
 
-## 💞️ Collaboration  
-I'm looking for opportunities to collaborate on:  
-- **Network Security Projects**  
-- **Tools Development**: Enterprise-level and open-source tools  
-- **Reverse Engineering**  
+- [MajorTank](https://github.com/MajorTank): Full-Stack Software Development Projects
+- [NetworkTank](https://github.com/networkTank): Networking Projects and Infrastructure Solutions
 
-## 📫 How to reach me 
-- [LinkedIn](https://www.linkedin.com/in/thabotankisothebe)
+---
 
-## 😄 Pronouns  
-- He/Him  
+## 🔒 About SecTank
 
-## ⚡ Fun Fact  
-I enjoy deconstructing network deployment systems and building efficient tools to improve them.  
+SecTank is a hub for cybersecurity-focused projects, labs, and tools. It includes resources to simulate, analyze, and mitigate various security threats. Ideal for professionals and learners aiming to enhance their cybersecurity expertise.
+
+---
+
+## 🎯 Current Projects & Focus
+
+### Phishing Simulation Lab
+
+- **Objective:** Raise awareness of phishing threats through real-world scenarios
+- **Features:**
+    - Simulated phishing campaigns
+    - Custom URL hosting
+    - Awareness tracking metrics
+
+### pfSense Firewall Implementation
+
+- **Focus:**
+    - Designing secure VLANs
+    - Advanced firewall rules
+    - Real-time threat detection and prevention
+
+### OpenNMS for Network Monitoring
+
+- **Purpose:**
+    - Monitor network traffic for anomalies
+    - Log analysis and reporting for security events
+
+---
+
+## 🛠 Cybersecurity Expertise
+
+### Tools & Platforms
+
+```python
+cyber_tools = {
+    "Firewalls": ["pfSense", "IPTables"],
+    "Monitoring": ["OpenNMS", "Nagios", "Wireshark"],
+    "Penetration Testing": ["Kali Linux", "Metasploit", "Nmap"],
+    "Authentication": ["Active Directory", "OAuth2", "2FA"]
+}
+
+```
+
+---
+
+## 📚 Repository Features
+
+1. **Hands-On Labs:** Step-by-step guides for security simulation and analysis.
+2. **Code Samples:** Scripts for automating security tasks.
+3. **Documentation:** Guides for configuring tools like pfSense and OpenNMS.
+
+---
+
+## 🔗 Related Repositories
+
+- [MajorTank](https://github.com/MajorTank): Full-stack development with secure APIs.
+- [NetworkTank](https://github.com/networkTank): Networking and infrastructure automation.
+
+---
+
+### How to Contribute
+
+Contributions are welcome! Report issues, suggest improvements, or share your own tools via pull requests. 
